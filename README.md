@@ -1,4 +1,4 @@
-# Software & Data Analytics 
+# Software Development & Data Analytics 
 
 ### Education
 Data Analytics, MS from CSU-Global on Oct 2023
