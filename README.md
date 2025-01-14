@@ -13,6 +13,7 @@
 - Developed a SIP phone system to handle phone calls with an AI assistant.
 - Developed a generative AI tool to accelerate research development and data analysis
 - Transitioned the team from a monolithic architecture to microservices, resulting in increased reusability as more teams adopted and utilized our microservices.
+- Utilized: Open AI API, Python, Javascript, Asterisk SIP Framework, Docker, Shell, Linux, PowerBI
 
 **Software Developer** @ InstaFuel from Oct 2022 - May 2023 | Houston, TX
 -  Pioneered a data automation solution using Python and Django, resulting in the
