@@ -1,10 +1,19 @@
-# Software Development & Data Analytics 
+# Software Development & Data Analytics & AI
 
 ### Education
 - Data Analytics, MS from CSU-Global on Oct 2023
 - Computer Science, BS from University of Houston on May 2016
 
 ### Work Experience
+
+**Scientific Programmer** @ UT Health from Apr 2024 - Present | Houston, Texas
+- Developed dashboards for hospital appointments to predict no-show using Power BI which lead to less no-show appointments and more revenue. 
+- Developed shared server management utilities to optimize resources like storage, RAM, and CPU usage, reducing server crashes and improving the experience for both users and developers. 
+- Developed custom chatbot for new patient intake in collaboration with doctors and clinics.
+- Developed a SIP phone system to handle phone calls with an AI assistant.
+- Developed a generative AI tool to accelerate research development and data analysis
+- Transitioned the team from a monolithic architecture to microservices, resulting in increased reusability as more teams adopted and utilized our microservices.
+
 **Software Developer** @ InstaFuel from Oct 2022 - May 2023 | Houston, TX
 -  Pioneered a data automation solution using Python and Django, resulting in the
 automated aggregation of internal finances into an Excel spreadsheet. This
