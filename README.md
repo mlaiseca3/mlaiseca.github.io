@@ -34,7 +34,7 @@ improved resource allocation of employees and cost savings.
 - Automated data extraction jobs using Jupyter Notebooks, Python, SQL, and
 Hadoop which improved visibility into complex data connections, facilitating
 access to otherwise difficult-to-collect data for dashboard visualization.
-- Migrated outdated internal website (used by management) that was based in
+- Migrated an outdated internal website (used by management) that was based in
 PHP, Apache, and MySQL to a newer one, based in Express, NodeJS, and
 MySQL, Bootstrap for better UI/UX experience.
 - Developed ETL pipeline using Python for migration of outdated internal
