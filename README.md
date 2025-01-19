@@ -11,8 +11,8 @@
 - Developed shared server management utilities to optimize resources like storage, RAM, and CPU usage, reducing server crashes and improving the experience for both users and developers. 
 - Developed custom chatbot for new patient intake in collaboration with doctors and clinics.
 - Developed a SIP phone system to handle phone calls with an AI assistant.
-- Developed a generative AI tool to accelerate research development and data analysis
-- Transitioned the team from a monolithic architecture to microservices, resulting in increased reusability as more teams adopted and utilized our microservices.
+- Developed a generative AI tool to accelerate research development and data analysis.
+- Transitioned the team from a monolithic architecture to containerized microservices, resulting in increased reusability as more teams adopted and utilized our microservices.
 - Utilized: Open AI API, Python, Javascript, Asterisk SIP Framework, Docker, Shell, Linux, PowerBI
 
 **Software Developer** @ InstaFuel from Oct 2022 - May 2023 | Houston, TX
