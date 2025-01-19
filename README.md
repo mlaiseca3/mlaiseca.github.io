@@ -1,4 +1,6 @@
-# Software Development & Data Analytics & AI
+# Mario Laiseca-Ruiz
+
+## Software Development & Data Analytics & AI
 
 ### Education
 - Data Analytics, MS from CSU-Global on Oct 2023
@@ -15,7 +17,7 @@
 - Transitioned the team from a monolithic architecture to containerized microservices, resulting in increased reusability as more teams adopted and utilized our microservices.
 - Utilized: Open AI API, Python, Javascript, Asterisk SIP Framework, Docker, Shell, Linux, PowerBI
 
-**Software Developer** @ InstaFuel from Oct 2022 - May 2023 | Houston, TX
+**Software Developer** @ Shell from Oct 2022 - May 2023 | Houston, TX
 -  Pioneered a data automation solution using Python and Django, resulting in the
 automated aggregation of internal finances into an Excel spreadsheet. This
 reduced hundreds of man hours monthly and enhanced data quality,
