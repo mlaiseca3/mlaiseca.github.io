@@ -9,13 +9,13 @@
 ### Work Experience
 
 **Scientific Programmer** @ UT Health from Apr 2024 - Present | Houston, Texas
-- Developed dashboards for hospital appointments to predict no-show using Power BI which lead to less no-show appointments and more revenue. 
-- Developed shared server management utilities to optimize resources like storage, RAM, and CPU usage, reducing server crashes and improving the experience for both users and developers. 
+- Developed dashboards for hospital appointments to predict no-show which lead to less no-show appointments and more revenue (using PowerBI). 
+- Developed shared server management utilities to optimize resources like storage, RAM, and CPU usage, reducing server crashes and improving the experience for both users and developers (using shell scripting and Python). 
 - Developed custom chatbot for new patient intake in collaboration with doctors and clinics.
-- Developed a SIP phone system to handle phone calls with an AI assistant.
-- Developed a generative AI tool to accelerate research development and data analysis.
-- Transitioned the team from a monolithic architecture to containerized microservices, resulting in increased reusability as more teams adopted and utilized our microservices.
-- Utilized: Open AI API, Python, Javascript, Asterisk SIP Framework, Docker, Shell, Linux, PowerBI
+- Developed a SIP phone system to handle phone calls (using Asterisk) with an AI assistant (using OpenAI API and custom function calls).
+- Developed a generative AI tool to accelerate research development and data analysis (using OpenAI API, custom function calls, and third-party Python libraries).
+- Transitioned the team from a monolithic architecture to containerized microservices, resulting in increased reusability as more teams adopted and utilized our microservices (using Docker, Python, Flask, and Quart for async).
+- Utilized: Open AI API, Python, Flask, Quart, Javascript, Asterisk SIP Framework, Docker, Shell, Linux, PowerBI
 
 **Software Developer** @ Shell from Oct 2022 - May 2023 | Houston, TX
 -  Pioneered a data automation solution using Python and Django, resulting in the
